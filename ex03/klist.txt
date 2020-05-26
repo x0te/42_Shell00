@@ -1,0 +1,6 @@
+Credentials cache: API:AFD8F461-75C7-4E82-8B13-57A9FC3DC94A
+        Principal: jinhlee@42SEOUL.KR
+
+  Issued                Expires             Flags    Principal
+May 26 10:09:46 2020  May 26 20:09:46 2020  FPRIA  krbtgt/42SEOUL.KR@42SEOUL.KR
+May 26 10:09:48 2020  May 26 20:09:46 2020  FPA    HTTP/student-storage.42seoul.kr@42SEOUL.KR
